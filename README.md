@@ -1,0 +1,2 @@
+# DQN-implementation
+Reinforcement Learning based Dialogue Management Strategy for Multiple Domains and intents.Implementation of DQN Algorithm.We combine Q Learning and Deep Learning, which yields Deep Q Networks. The idea is simple: we’ll replace the the Q Learning’s table with a neural network that tries to approximate Q Values. It is usually referred to as the approximator or the approximating function, and denoted as Q(s,a; θ), where θ represents the trainable weights of the network.
